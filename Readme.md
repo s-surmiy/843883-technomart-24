@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Sergey Surmiy](https://up.htmlacademy.ru/htmlcss/24/user/843883).
-* Наставник: `Неизвестно`.
+* Наставник: [Maxim Fariga](https://htmlacademy.ru/profile/maximfariga).
 
 ---
 
